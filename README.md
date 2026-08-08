@@ -8,11 +8,13 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Math
@@ -37,4 +39,8 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
