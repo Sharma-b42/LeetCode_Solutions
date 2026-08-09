@@ -14,6 +14,7 @@ __This contains all the LeetCode solutions of mine.__
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -103,11 +104,13 @@ __This contains all the LeetCode solutions of mine.__
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
