@@ -11,6 +11,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0287-find-the-duplicate-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -20,6 +21,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0151-reverse-words-in-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0443-string-compression/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Math
