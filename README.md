@@ -6,6 +6,7 @@ __This contains all the LeetCode solutions of mine.__
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -40,6 +41,7 @@ __This contains all the LeetCode solutions of mine.__
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0049-group-anagrams](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -56,6 +58,7 @@ __This contains all the LeetCode solutions of mine.__
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 ## Dynamic Programming
