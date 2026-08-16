@@ -54,6 +54,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0384-shuffle-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0384-shuffle-an-array/) | Medium |
 | [0605-can-place-flowers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
@@ -72,6 +73,7 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -104,6 +106,7 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +125,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
