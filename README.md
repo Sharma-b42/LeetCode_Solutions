@@ -63,6 +63,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +145,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1657-determine-if-two-strings-are-close](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,4 +154,12 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 <!---LeetCode Topics End-->
