@@ -184,6 +184,7 @@ __This contains all the LeetCode solutions of mine.__
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -197,6 +198,7 @@ __This contains all the LeetCode solutions of mine.__
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
