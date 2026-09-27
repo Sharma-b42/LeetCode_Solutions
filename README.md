@@ -208,10 +208,12 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,4 +222,5 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 <!---LeetCode Topics End-->
