@@ -57,6 +57,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0049-group-anagrams](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0162-find-peak-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -340,4 +341,5 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
