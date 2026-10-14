@@ -42,6 +42,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0384-shuffle-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0384-shuffle-an-array/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Prefix Sum
@@ -342,4 +344,8 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
