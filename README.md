@@ -102,6 +102,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0198-house-robber](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0790-domino-and-tromino-tiling](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
