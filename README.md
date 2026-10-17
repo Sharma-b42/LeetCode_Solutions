@@ -33,6 +33,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0443-string-compression](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0443-string-compression/) | Medium |
 | [0649-dota2-senate](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0649-dota2-senate/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -106,6 +107,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0746-min-cost-climbing-stairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Prefix Sum
@@ -359,4 +361,8 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
